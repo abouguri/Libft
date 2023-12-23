@@ -55,19 +55,57 @@
 <img src="https://i.kym-cdn.com/photos/images/original/000/131/662/22711800_646849b145.jpg" width="500">
 </p>
 
+---
+
+|  #  | FUNCTION    | MANUAL |
+|---  |---	   |---     |
+|     | • [isalpha](https://github.com/abouguri/libft/blob/main/ft_isalpha.c) | [man](https://www.programiz.com/c-programming/library-function/ctype.h/isalpha)  |
+|     | • [isdigit](https://github.com/abouguri/libft/blob/main/ft_isdigit.c) | [man](https://www.programiz.com/c-programming/library-function/ctype.h/isdigit)  |
+|     | • [isalnum](https://github.com/abouguri/libft/blob/main/ft_isalnum.c) | [man](https://www.programiz.com/c-programming/library-function/ctype.h/isalnum)  |
+|     | • [isascii](https://github.com/abouguri/libft/blob/main/ft_isascii.c) | [man](https://www.ibm.com/docs/en/i/7.3?topic=functions-isascii-test-character-representable-as-ascii-value) |
+|     | • [strlen](https://github.com/abouguri/libft/blob/main/ft_strlen.c)   | [man](http://manpagesfr.free.fr/man/man3/strlen.3.html)     |
+|     | • [memset](https://github.com/abouguri/libft/blob/main/ft_memset.c)   | [man](https://man7.org/linux/man-pages/man3/memset.3.html)  |
+|     | • [bzero](https://github.com/abouguri/libft/blob/main/ft_bzero.c)     | [man](https://man7.org/linux/man-pages/man3/bzero.3.html)   |
+|     | • [memcpy](https://github.com/abouguri/libft/blob/main/ft_memcpy.c)   | [man](https://man7.org/linux/man-pages/man3/memcpy.3.html)  |
+|     | • [memmove](https://github.com/abouguri/libft/blob/main/ft_memmove.c) | [man](https://man7.org/linux/man-pages/man3/memmove.3.html) |
+|     | • [strlcpy](https://github.com/abouguri/libft/blob/main/ft_strlcpy.c) | [man](https://www.cs.auckland.ac.nz/~mjd/prog_contest/www.cppreference.com/c/string/strlcpy) |
+|     | • [strlcat](https://github.com/abouguri/libft/blob/main/ft_strlcpy.c) | [man](https://www.mkssoftware.com/docs/man3/strlcat.3.asp)  |
+|     | • [toupper](https://github.com/abouguri/libft/blob/main/ft_toupper.c) | [man](https://man7.org/linux/man-pages/man3/toupper.3.html) |
+|     | • [tolower](https://github.com/abouguri/libft/blob/main/ft_tolower.c) | [man](https://linux.die.net/man/3/tolower) |
+|     | • [strchr](https://github.com/abouguri/libft/blob/main/ft_strchr.c) | [man](https://man7.org/linux/man-pages/man3/strchr.3.html) |
+|     | • [strncmp()](https://github.com/abouguri/libft/blob/main/ft_strncmp.c) | [man]() |
+|     | • [memchr()](https://github.com/abouguri/libft/blob/main/ft_memchr.c) | [man]() |
+|     | • [memcmp()](https://github.com/abouguri/libft/blob/main/ft_memcmp.c) | [man]() |
+|     | • [strnstr()](https://github.com/abouguri/libft/blob/main/ft_strnstr.c) | [man]() |
+|     | • [atoi()](https://github.com/abouguri/libft/blob/main/ft_atoi.c) | [man]() |
+
+---
+
 >ft_strlen instead of strlen? Absolutely!
 >ft_isalpha, ft_isdigit, ft_isalnum... you name it, I've recreated it!
 
 ### Part II: The Innovators
 >The second part is where creativity meets functionality. I've crafted functions that are either missing from libc or exist in an alternate universe.
 
+| FUNCTION | BEHAVIOR |
+|--- |--- |
+| - ft_substr | - returns a substring from a string |
+| - ft_strjoin.c | - concatenates two strings |
+| - ft_strtrim.c | - trims the beginning and end of string with specific set of chars |
+| - ft_split.c | - splits a string using a char as parameter |
+| - ft_itoa.c | - converts a number into a string |
+| - ft_strmapi.c | - applies a function to each character of a string |
+| - ft_striteri.c | - applies a function to each character of a string |
+| - ft_putchar_fd.c | - output a char to a file descriptor |
+| - ft_putstr_fd.c | - output a string to a file descriptor |
+| - ft_putendl_fd.c | - output a string to a file descriptor, followed by a new line |
+| - ft_putnbr_fd.c | - output a number to a file descriptor |
+
+
 >ft_substr: Extracting string essence like a potion master.
 >ft_strjoin: Weaving strings together with the finesse of a wordsmith.
 >ft_split: Splitting strings with the precision of a samurai.
 >...and many more enchanting functions!
-
-##  🌌 The Legend Says: "RTFM!"
->But here, the manual reads like a storybook of adventures and mysteries unraveling. Dive into each function's tale, from ft_strdup with its magical cloning powers to ft_calloc, the great allocator.
 
 ## 🛠️ How to Use This Cosmic Toolbox
 >1. Clone this universe: git clone https://github.com/abouguri/Libft 
