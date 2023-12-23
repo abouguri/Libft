@@ -1,31 +1,36 @@
-Libft: My 42 Network Odyssey 🚀
-Introduction 🌟
-Hello, fellow coders and curious minds! Welcome to my rendition of libft – the foundational project from the renowned 42 Network. This isn't just a library; it's a journey, a story of growth, learning, and a whole lot of coding.
+🚀 LIBFT-42: The C Library That's Out of This World!
+☕ Artistic View of LIBFT:
+Welcome aboard the LIBFT spacecraft, where we navigate through the cosmic wonders of C programming. This isn't just a library; it's a constellation of functions shining bright in the programmer's universe!
 
-What is Libft? 📚
-Libft is my first leap into the world of C programming at the 42 Network. It's a personal library of functions that I will use in my later projects. Think of it as gathering all the Infinity Stones before the big battle. Each function is a gem – crafted with care, precision, and a touch of my personality.
+🎭 How Does It Feel?
+Imagine being a wizard in the world of C, where each function is a spell that brings your code to life. That's LIBFT - a magical toolbox where every function is an adventure!
 
-Features and Functions ✨
-String Mastery: Functions that perform complex operations on strings. They don't just handle strings; they make them sing.
-Memory Wizards: Memory management functions that don't just allocate, but celebrate bytes.
-List Mechanics: Linked list functions that bring nodes and pointers into a harmonious dance.
-And More: A variety of utility functions that are like the Swiss Army knife in my coding toolkit.
-Why Should You Care? 🤔
-Educational: See how basic functions can be built from scratch. It's like watching a chef make a gourmet dish from basic ingredients.
-Reusable: Need a function? Don't reinvent the wheel. I've got the wheel, and it's round and smooth!
-Fun Commentary: My code isn't just functional; it's fun! Enjoy my witty comments and insights sprinkled throughout the code.
-Challenges and Triumphs 🏆
-This project was a rollercoaster! From segmentation faults to memory leaks, I faced them all. But like a phoenix, I rose from the ashes of bugs and errors, emerging more skilled and knowledgeable.
+📖 What Exactly is LIBFT?
+LIBFT is my quest to forge a C library, comprising essential functions I'll be using throughout my coding odyssey at 42 Network. It's like building my own Excalibur for the battles in the realm of programming!
 
-How to Use 🛠️
-Clone the Repo: git clone [your-repo-link]
-Compile the Library: Run make and watch the magic happen.
-Include in Your Project: Use #include "libft.h" and let the fun begin!
-Contributions and Feedback 🤝
-Have ideas on how to improve these functions? Found a bug that's eluding my radar? Feel free to contribute or drop me a message. Let's make libft not just a library, but a community project!
+🔧 Mandatory Parts: The Dual Quests
+Part I: The Classics Reimagined
+Here, I've re-envisioned the standard libc functions, giving them a twist with my prefix "ft_". It's like meeting old friends with new stories.
 
-Acknowledgements 🙏
-Big shoutout to the 42 Network and all my peers who embarked on this coding odyssey with me. Your support, laughter, and shared frustrations made this journey unforgettable.
+ft_strlen instead of strlen? Absolutely!
+ft_isalpha, ft_isdigit, ft_isalnum... you name it, I've recreated it!
+Part II: The Innovators
+The second part is where creativity meets functionality. I've crafted functions that are either missing from libc or exist in an alternate universe.
 
-About the Author 🧑‍💻
-Just a curious soul passionate about coding, learning, and breaking things down for a better understanding. On a quest to make the world a better place, one line of code at a time.
+ft_substr: Extracting string essence like a potion master.
+ft_strjoin: Weaving strings together with the finesse of a wordsmith.
+ft_split: Splitting strings with the precision of a samurai.
+...and many more enchanting functions!
+🌌 The Legend Says: "Read the Manual!"
+But here, the manual reads like a storybook of adventures and mysteries unraveling. Dive into each function's tale, from ft_strdup with its magical cloning powers to ft_calloc, the great allocator.
+
+🛠️ How to Use This Cosmic Toolbox
+Clone this universe: git clone git@github.com:abouguri/Libft.git
+Build your arsenal: Run make and watch the stars align.
+Include in your epic saga: Use #include "libft.h" and let the magic unfold!
+
+🙏 Acknowledgements: My Fellowship
+Shoutout to the 42 Network, my fellow coding adventurers, and the countless cups of cosmic coffee. Together, we're writing the chronicles of code!
+
+🧙‍♂️ About the Wizard Behind the Keyboard
+a 23 yo sorcerer of code, exploring the realms of software engineering. My mission: to understand the arcane arts of programming, one spell (I mean, function) at a time.
