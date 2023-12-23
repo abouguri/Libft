@@ -6,7 +6,7 @@
 ## 🎭 How Does It Feel?
 #### Imagine being a wizard in the world of C, where each function is a spell that brings your code to life. That's LIBFT - a magical toolbox where every function is an adventure!
 
-<p>--- ### Subject : --- :book: [ENGLISH SUBJECT PDF](https://github.com/abouguri/Libft/blob/main/en.subject.pdf) --- ### :information_source: What exactly is LIBFT ? ---</p>
+[ENGLISH PDF](https://github.com/abouguri/Libft/blob/main/en.subject.pdf)
 
 ## 📖 What Exactly is LIBFT?
 #### LIBFT is my quest to forge a C library, comprising essential functions I'll be using throughout my coding odyssey at 42 Network. It's like building my own Excalibur for the battles in the realm of programming!
