@@ -50,6 +50,10 @@
 | • [atoi()](https://github.com/abouguri/libft/blob/main/ft_atoi.c)       | NONE	   |  int	ft_atoi(const char *s)  |  | <stdlib.h> |
 
 ---
+</p>
+<p align="center">
+<img src="https://i.kym-cdn.com/photos/images/original/000/131/662/22711800_646849b145.jpg" width="500">
+</p>
 
 >ft_strlen instead of strlen? Absolutely!
 >ft_isalpha, ft_isdigit, ft_isalnum... you name it, I've recreated it!
