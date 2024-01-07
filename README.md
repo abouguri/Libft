@@ -3,7 +3,7 @@
 Welcome, intrepid coders, to the LIBFT spacecraft, zipping through the cosmic realms of C programming! This isn't just any ordinary library; it's like having your very own portal gun, opening dimensions of functions and possibilities in the vast programmer's universe. Get ready for an adventure that's as wild and unpredictable as a day out with Rick and Morty!
 
 <p align="center">
-<img src="https://gifrific.com/wp-content/uploads/2013/12/Breaking-Bad-Were-Done-When-I-Say-Were-Done.gif" width="700">
+<img src="https://media2.giphy.com/media/RmfzOLuCJTApa/giphy.gif" width="700">
 <p/>
 
 ## 🌌 Artistic View of LIBFT: The Interdimensional Library
