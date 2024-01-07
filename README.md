@@ -1,24 +1,21 @@
 
-## 🚀 LIBFT-42: The Valyrian Steel of C Libraries
-Welcome to Libft, the legendary library in the realm of C programming. Just as Valyrian steel is rare and powerful in the world of Game of Thrones, Libft is a collection of essential functions, forged to arm you in the battles of coding within the 42 Network.
+## 🚀 LIBFT-42: The C Library Adventure in the Multiverse of Programming!
+Welcome, intrepid coders, to the LIBFT spacecraft, zipping through the cosmic realms of C programming! This isn't just any ordinary library; it's like having your very own portal gun, opening dimensions of functions and possibilities in the vast programmer's universe. Get ready for an adventure that's as wild and unpredictable as a day out with Rick and Morty!
 
 <p align="center">
 <img src="https://gifrific.com/wp-content/uploads/2013/12/Breaking-Bad-Were-Done-When-I-Say-Were-Done.gif" width="700">
 <p/>
 
-## 🐉 Artistic View of Libft: A Maester's Craft
->In this grand citadel of code, Libft stands as a testament to craftsmanship and utility, akin to the intricate works of the Maesters of Westeros. It's not just a library; it's an armory of functions, each shining like a star in the night sky over the Seven Kingdoms.
-
-## 🗡️ How Does It Feel?
->Imagine wielding a sword in the world of C, where each function is a stroke of the blade, bringing your code to life with precision and might. Libft is your personal arsenal of spells and incantations, turning each line of code into a magical act.
+## 🌌 Artistic View of LIBFT: The Interdimensional Library
+>Imagine you're Rick Sanchez, the smartest man in the universe, but in the world of C programming. Each function in LIBFT is like a unique gadget in Rick's lab, waiting to bring your code to life in ways you never imagined!
 
 ## 📜 What Exactly is Libft?
->Libft is my quest to craft a C library, comprising essential functions I'll wield throughout my coding odyssey at 42 Network. It's akin to forging my own Lightbringer, ready to face the White Walkers of programming challenges.
+>LIBFT is my intergalactic mission to create a C library, a toolkit of essential functions that I'll be wielding throughout my coding journey at 42 Network. Think of it as crafting your own Plumbus: everyone needs one, but no one knows what it does until they dive in!
 [READ](https://github.com/abouguri/Libft/blob/main/en.subject.pdf)
 
 ## 🔧 Mandatory Parts: The Dual Quests
 ### Part I: The Classics Reimagined
->Here, I've re-envisioned the standard libc functions, giving them a twist with my prefix "ft_". It's like meeting old friends with new stories.
+>Here, I've re-engineered the standard libc functions with my own twist, prefixing them with "ft_". It's like meeting familiar aliens in different dimensions.
 
 <p align=center>
 
@@ -90,7 +87,7 @@ Welcome to Libft, the legendary library in the realm of C programming. Just as V
 >ft_isalpha, ft_isdigit, ft_isalnum... you name it, I've recreated it!
 
 ### Part II: The Innovators
->The second part is where creativity meets functionality. I've crafted functions that are either missing from libc or exist in an alternate universe.
+>In the spirit of Rick's ingenuity, I've created functions that the libc didn't even think were possible, or perhaps they exist in a universe where they're the norm.
 
 | FUNCTION | BEHAVIOR |
 |--- |--- |
@@ -118,4 +115,6 @@ Welcome to Libft, the legendary library in the realm of C programming. Just as V
 >3. Include in your epic saga: Use #include "libft.h" and let the magic unfold!
 
 ## 🧙‍♂️ About the Wizard Behind the Keyboard
->23 years old sorcerer of software engineering, delving into the depths of coding, one spell (I mean, function) at a time.
+>Just a 23-year-old software engineering wizard, diving into the depths of coding, one spell (or function) at a time, with the ambition of Rick and the heart of Morty.
+
+"Wubba lubba dub dub!"
