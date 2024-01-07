@@ -1,13 +1,19 @@
 
-## 🚀 LIBFT-42: The C Library That's Out of This World!
-## ☕ Artistic View of LIBFT:
->Welcome aboard the LIBFT spacecraft, where we navigate through the cosmic wonders of C programming. This isn't just a library; it's a constellation of functions shining bright in the programmer's universe!
+## 🚀 LIBFT-42: The Valyrian Steel of C Libraries
+Welcome to Libft, the legendary library in the realm of C programming. Just as Valyrian steel is rare and powerful in the world of Game of Thrones, Libft is a collection of essential functions, forged to arm you in the battles of coding within the 42 Network.
 
-## 🎭 How Does It Feel?
->Imagine being a wizard in the world of C, where each function is a spell that brings your code to life. That's LIBFT - a magical toolbox where every function is an adventure!
+<p align="center">
+<img src="https://gifrific.com/wp-content/uploads/2013/12/Breaking-Bad-Were-Done-When-I-Say-Were-Done.gif" width="700">
+<p/>
 
-## 📖 What Exactly is LIBFT?
->LIBFT is my quest to forge a C library, comprising essential functions I'll be using throughout my coding odyssey at 42 Network. It's like building my own Excalibur for the battles in the realm of programming!
+## 🐉 Artistic View of Libft: A Maester's Craft
+>In this grand citadel of code, Libft stands as a testament to craftsmanship and utility, akin to the intricate works of the Maesters of Westeros. It's not just a library; it's an armory of functions, each shining like a star in the night sky over the Seven Kingdoms.
+
+## 🗡️ How Does It Feel?
+>Imagine wielding a sword in the world of C, where each function is a stroke of the blade, bringing your code to life with precision and might. Libft is your personal arsenal of spells and incantations, turning each line of code into a magical act.
+
+## 📜 What Exactly is Libft?
+>Libft is my quest to craft a C library, comprising essential functions I'll wield throughout my coding odyssey at 42 Network. It's akin to forging my own Lightbringer, ready to face the White Walkers of programming challenges.
 [READ](https://github.com/abouguri/Libft/blob/main/en.subject.pdf)
 
 ## 🔧 Mandatory Parts: The Dual Quests
